@@ -1,0 +1,11 @@
+{
+    "home": {
+      "title": "Home",
+      "content": "Welcome to our homepage. Here, we showcase our latest products and news."
+    },
+    "about": {
+      "title": "About",
+      "content": "Learn more about our company, our mission, and our team on this page."
+    }
+  }
+  

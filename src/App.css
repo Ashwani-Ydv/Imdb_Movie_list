@@ -1,11 +1,5 @@
 .app {
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: center;
-}
-.search {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 10px;
 }
